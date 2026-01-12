@@ -92,8 +92,8 @@ winux
 
 ### Author Credit
 
-**Authur:** David S
-**Copy-Right:** Copyright: © 2026 David S all rights reserved 
-**Creative-Commons:** Creative-Commons: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
+**Authur:** David S   
+**Copy-Right:** Copyright: © 2026 David S all rights reserved    
+**Creative-Commons:** Creative-Commons: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0    International License
 
 
