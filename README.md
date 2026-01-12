@@ -81,9 +81,6 @@ This mirrors how Unix shells and coreutils actually work.
 ### Requirements
 - Python 3.9+
 - Windows 10+ (primary target)
-- Python packages:
-  - `colorama`
-  - `paramiko`
 - needs a path environmental variable
 ### Running the Shell
 
