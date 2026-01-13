@@ -9,6 +9,7 @@ Commands are implemented as real Windows executables, enabling correct piping, r
 
 ## Features
 
+!IMPORTANT currently some of the exes have some bugs... i didnt relize when i puublished ill try fix them as soon as possible!
 ### Shell
 - Linux-style prompt (`user@host:cwd$`)
 - Command pipelines (`|`)
